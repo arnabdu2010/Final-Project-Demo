@@ -1,0 +1,84 @@
+.mybtn{
+	
+	
+	color:blue;
+	background-color:red;
+	
+}
+.body{
+	background-color:orange;
+}
+.mybtn1{
+	color:green;
+	background-color:red;
+	padding :15px;
+}
+.mybtn1:hover{
+  color:black;
+  background-color:yellow;
+  
+}
+.button{
+	color:black;
+	background-color:pink;
+	padding:50px;
+	border-radius:20px;
+	transition:all 1s ease;
+	margin:20px;
+}
+.button:hover{
+	color:green;
+	background:red;
+	cursor:pointer;
+}
+.mybtn2{
+	color:green;
+	background-color:red;
+}
+.button1{
+	
+	color:black;
+	background-color:pink;
+	padding:30px;
+	border-radius:10px;
+	transition:all 1s ease;
+}
+.button1:hover{
+	color:green;
+	background-color:red;
+	cursor:pointer;
+}
+.mybtn3{
+	color:green;
+	background-color:red;
+}
+.button2{
+	color:black;
+	background-color:green;
+	padding:30px;
+	border-radius:10px;
+	transition:all 1s ease;
+}
+.button2:hover{
+	color:green;
+	background-color:red;
+	cursor:pointer;
+}
+.mybtn4{
+	color:green;
+	background-color:red;
+}
+.button3{
+	color:black;
+	background-color:green;
+	border-radius:10px;
+	padding:30px;
+	transition:all 1s ease;
+}
+.button3:hover{
+	color:green;
+	background-color:red;
+	cursor:pointer;
+}
+
+	
